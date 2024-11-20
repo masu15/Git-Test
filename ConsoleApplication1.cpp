@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-    std::cout << "こんにちは。\n";
+    std::cout << "こんにちは！\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
